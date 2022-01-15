@@ -1,4 +1,7 @@
-![Argon Assault](https://daren-stottrup.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdee6cfab-f437-4b10-b0c3-102ac1a0a0c9%2FArgon_Assault2.png?table=block&id=ff8d9eb0-a684-4323-a822-b97de7755eff&spaceId=f2ac5bd7-db8b-4b29-8205-809cd644ec3b&width=2000&userId=&cache=v2)
+<p align="center">
+  <img src="https://daren-stottrup.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdee6cfab-f437-4b10-b0c3-102ac1a0a0c9%2FArgon_Assault2.png?table=block&id=ff8d9eb0-a684-4323-a822-b97de7755eff&spaceId=f2ac5bd7-db8b-4b29-8205-809cd644ec3b&width=2000&userId=&cache=v2">
+</p>
+
 # Argon Assault
 To learn more about this game, visit [Argon Assault](https://daren-stottrup.notion.site/Argon-Assault-ef580c7dfc8f4b41b6caea89621fc76c) on my [portfolio](https://daren-stottrup.notion.site/Game-Portfolio-3bc5aac8cfcb4d32af26f20301371155).
 <br>
